@@ -1,2 +1,2 @@
 # slowLoris
-Little slow loris implementation in python
+Little slow-loris implementation in python
